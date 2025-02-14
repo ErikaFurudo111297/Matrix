@@ -1,2 +1,2 @@
 # Matrix
-Experimentation with different printstream commands
+Experimentation with different printstream commands.
